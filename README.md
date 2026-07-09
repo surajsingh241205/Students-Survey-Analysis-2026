@@ -228,7 +228,7 @@ Includes:
 
 ### Dashboard Preview
 
-![Skills Analysis Dashboard](https://github.com/surajsingh241205/Students-Survey-Analysis-2026/blob/main/Images/Dashboard%201.PNG?raw=true)
+![Executive Overview Dashboard](https://github.com/surajsingh241205/Students-Survey-Analysis-2026/blob/main/Images/Dashboard%201.PNG?raw=true)
 
 ---
 
@@ -246,7 +246,7 @@ Includes:
 
 ### Dashboard Preview
 
-![dashboard 2](images/Dashboard%202.PNG)
+![Skills Analysis Dashboard](https://github.com/surajsingh241205/Students-Survey-Analysis-2026/blob/main/Images/Dashboard%202.PNG?raw=true)
 
 ---
 
@@ -265,7 +265,7 @@ Includes:
 
 ### Dashboard Preview
 
-![dashboard 2](images/Dashboard%203.PNG)
+![Career Readiness Dashboard](https://github.com/surajsingh241205/Students-Survey-Analysis-2026/blob/main/Images/Dashboard%203.PNG?raw=true)
 ---
 
 ## 4. Career Goals & Salary Dashboard
@@ -281,7 +281,7 @@ Includes:
 
 ### Dashboard Preview
 
-![dashboard 2](images/Dashboard%204.PNG)
+![Career Goals Dashboard](https://github.com/surajsingh241205/Students-Survey-Analysis-2026/blob/main/Images/Dashboard%204.PNG?raw=true)
 ---
 
 ## 5. Student Insights Dashboard
@@ -299,7 +299,7 @@ Includes:
 
 ### Dashboard Preview
 
-![dashboard 2](images/Dashboard%205.PNG)
+![Student Insights Dashboard](https://github.com/surajsingh241205/Students-Survey-Analysis-2026/blob/main/Images/Dashboard%205.PNG?raw=true)
 
 ---
 
