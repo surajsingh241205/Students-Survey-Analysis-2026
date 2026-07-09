@@ -378,8 +378,6 @@ Open the notebooks in Jupyter Notebook or VS Code and execute them in sequence.
 
 **Suraj Singh**
 
-Final Year B.Com (Computer Applications)
-
 Aspiring Data Analyst
 
 GitHub: https://github.com/surajsingh241205
