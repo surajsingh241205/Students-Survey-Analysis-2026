@@ -228,7 +228,7 @@ Includes:
 
 ### Dashboard Preview
 
-![dashboard 1](images/Dashboard%201.PNG)
+![dashboard 1](images/Dashboard 1.PNG)
 
 ---
 
