@@ -228,7 +228,7 @@ Includes:
 
 ### Dashboard Preview
 
-![dashboard 1](images/Dashboard 1.PNG)
+![Skills Analysis Dashboard]([images/Dashboard.png](https://github.com/surajsingh241205/Students-Survey-Analysis-2026/blob/main/Images/Dashboard%201.PNG))
 
 ---
 
